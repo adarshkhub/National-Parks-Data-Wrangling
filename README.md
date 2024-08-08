@@ -21,4 +21,6 @@
 ![evalidator 2](https://github.com/adarshkhub/National-Parks-Data-Wrangling/assets/67844710/a98d4804-8cd8-4bc3-b70f-ba5c2be04f66)
 
 
+### Analysis
 
+Greatly helped increase proficiency with Pandas library, especially with melt and pivot functionality.
